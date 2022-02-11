@@ -1,0 +1,6 @@
+Temperature Conversion program built using tkinter module in Python.
+Enter the temperature in either Celsius or Fahrenheit or Kelvin and it will convert it into other temperature scale which is not mentioned.
+
+Additional feature:
+  - A "Show Formula" button which shows the conversion formula.
+  
